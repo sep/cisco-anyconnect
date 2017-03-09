@@ -4,7 +4,9 @@ maintainer_email 'rmnowadly@sep.com'
 license 'Apache License 2.0'
 description 'Installs/Configures Cisco Anyconnect'
 long_description 'Installs/Configures cisco-anyconnect'
-version '0.1.0'
+version '0.1.1'
+
+supports 'Windows', '10'
 
 # The `issues_url` points to the location where issues for this cookbook are
 # tracked.  A `View Issues` link will be displayed on this cookbook's page when

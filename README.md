@@ -7,7 +7,7 @@ own copy of the msi and update the <code>url</code> attribute with a file path.
 
 ## Platform:
 
-*No platforms defined*
+* Windows (= 10)
 
 ## Cookbooks:
 
