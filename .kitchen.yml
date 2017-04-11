@@ -34,4 +34,4 @@ suites:
         - test/smoke/default
     attributes:
         cisco-anyconnect:
-          url: c:/Installers/CiscoAnyConnect.msi
+          url: c:/Installers/CiscoAnyConnect/CiscoAnyConnect.msi
